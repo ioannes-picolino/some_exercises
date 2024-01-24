@@ -1,0 +1,8 @@
+C:\Users\082210015\source\repos\leitura_resistores\bin\Debug\leitura_resistores.exe.config
+C:\Users\082210015\source\repos\leitura_resistores\bin\Debug\leitura_resistores.exe
+C:\Users\082210015\source\repos\leitura_resistores\bin\Debug\leitura_resistores.pdb
+C:\Users\082210015\source\repos\leitura_resistores\obj\Debug\leitura_resistores.csproj.AssemblyReference.cache
+C:\Users\082210015\source\repos\leitura_resistores\obj\Debug\leitura_resistores.csproj.SuggestedBindingRedirects.cache
+C:\Users\082210015\source\repos\leitura_resistores\obj\Debug\leitura_resistores.csproj.CoreCompileInputs.cache
+C:\Users\082210015\source\repos\leitura_resistores\obj\Debug\leitura_resistores.exe
+C:\Users\082210015\source\repos\leitura_resistores\obj\Debug\leitura_resistores.pdb
